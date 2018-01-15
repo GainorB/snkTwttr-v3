@@ -1,0 +1,21 @@
+{
+  "name": "snktwttr-v3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gainor Bostwick",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "dotenv": "^4.0.0",
+    "figlet": "^1.2.0",
+    "get-urls": "^7.2.0",
+    "lodash": "^4.17.4",
+    "moment": "^2.20.1",
+    "slackbots": "^1.1.0",
+    "twit": "^2.2.9"
+  }
+}
